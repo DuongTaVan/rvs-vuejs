@@ -1,0 +1,66 @@
+{
+  "user_id": 1,
+  "user_type": 1,
+  "has_video_lesson_contract": 0,
+  "has_online_lesson_contract": 1,
+  "email": "tuanvd@fabbi.io",
+  "phone": "0123456789",
+  "nickname": "tuanvd",
+  "last_name_kanji": "last_name_kanji",
+  "first_name_kanji": "first_name_kanji",
+  "last_name_kana": "last_name_kana",
+  "first_name_kana": "first_name_kana",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/User_icon_2.svg/800px-User_icon_2.svg.png",
+  "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/User_icon_2.svg/800px-User_icon_2.svg.png",
+  "sub_images": [
+    {
+      "id": "1",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/User_icon_2.svg/800px-User_icon_2.svg.png",
+      "display_order": 1
+    },
+    {
+      "id": "1",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/User_icon_2.svg/800px-User_icon_2.svg.png",
+      "display_order": 1
+    }
+  ],
+  "sex": "1",
+  "date_of_birth": "24/02/1998",
+  "age": "24",
+  "zip_code": "100000",
+  "prefecture_cd": "1010024",
+  "prefecture_lb": "1010024",
+  "city": "Ha Noi",
+  "subsequent_address": "Ha Noi",
+  "skype_id": "vudinhtuan242",
+  "goal_id": 1,
+  "goal_points": 1500,
+  "skill_id": 1,
+  "skill_lb": "Beginer",
+  "level": 1,
+  "tickets": 1,
+  "trial_video_lessons": 1,
+  "likes": 1,
+  "rating": "5",
+  "point_balance": 1234,
+  "last_login": "20220722",
+  "bank_accounts": [
+    {
+      "id": "1",
+      "bank_name": "bank name",
+      "branch_name": "branch_name",
+      "branch_code": "branch code",
+      "account_type": "1",
+      "account_number": "111222333444",
+      "display_order": 1
+    }
+  ],
+  "email_notification_setting": {
+    "message": "0",
+    "box_notification": "1"
+  },
+  "push_notification_setting": {
+    "message": "0",
+    "box_notification": "1"
+  }
+}

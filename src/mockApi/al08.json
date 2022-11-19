@@ -1,0 +1,12 @@
+{
+  "data": {
+    "video_lesson_try_id": 1,
+    "stage": "japanese",
+    "training": {
+      "reflex_try_id": 1,
+      "result": 1,
+      "correct_answer": "correct answer",
+      "has_next": 1
+    }
+  }
+}

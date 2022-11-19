@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "goal_id": 1,
+      "name": "goal 1",
+      "points": "1000"
+    },
+    {
+      "goal_id": 2,
+      "name": "goal 2",
+      "points": "2000"
+    },
+    {
+      "goal_id": 3,
+      "name": "goal 3",
+      "points": "3000"
+    },
+    {
+      "goal_id": 4,
+      "name": "goal 4",
+      "points": "4000"
+    }
+  ],
+  "message": "ok"
+}

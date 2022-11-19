@@ -1,0 +1,14 @@
+{
+  "data": {
+    "video_lesson_try_id": 1,
+    "user_id": 1,
+    "video_lesson_id": 1,
+    "start_time": "05:11",
+    "end_time": "06:11",
+    "minutes": 2,
+    "status": 1,
+    "stage": "practice",
+    "is_aggregated": 1
+  },
+  "message": "ok"
+}

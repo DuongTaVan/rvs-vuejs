@@ -1,0 +1,19 @@
+{
+  "data": {
+    "root_node": 1,
+    "video_lesson_id": 1,
+    "stage": "japanese",
+    "lecture": [
+      {
+        "id": 1,
+        "name": "what"
+      },
+      {
+        "id": 2,
+        "name": "where"
+      }
+    ],
+    "lecture_video_url": "https://www.appsloveworld.com/wp-content/uploads/2018/10/640.mp4"
+  },
+  "message": "ok"
+}

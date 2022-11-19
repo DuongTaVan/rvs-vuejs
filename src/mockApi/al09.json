@@ -1,0 +1,13 @@
+{
+  "data": {
+    "video_lesson_try_id": 1,
+    "stage": "lecture",
+    "practice": {
+      "reflex_try_id": 1,
+      "practice_video_url": "https://res.cloudinary.com/codelife/video/upload/v1637805738/intro_l5ul1k.mp4",
+      "recognition_start_sec": "3",
+      "recognition_end_sec": "7"
+    }
+  },
+  "message": "ok"
+}

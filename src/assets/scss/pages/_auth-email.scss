@@ -1,0 +1,17 @@
+.auth-email, .resetPass {
+  .submit {
+    li {
+      a {
+        &.btn-submit {
+          text-decoration: none;
+        }
+      }
+    }
+  }
+}
+
+.authen_confirm_btn {
+  p {
+    text-align: center;
+  }
+}

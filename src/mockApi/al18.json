@@ -1,0 +1,30 @@
+{
+  "data": {
+    "root_node": 1,
+    "story_video_id": 1,
+    "level_url": 1,
+    "title": "duong tien hai",
+    "video_url": "https://www.appsloveworld.com/wp-content/uploads/2018/10/640.mp4",
+    "story_questions": [
+      {
+        "id" : 1,
+        "name": "what"
+      },
+      {
+        "id" : 2,
+        "name": "where"
+      },
+      {
+        "id" : 3,
+        "name": "who"
+      },
+      {
+        "id" : 4,
+        "name": "when"
+      }
+    ],
+    "question": "duong ga",
+    "display_order": 1
+  },
+  "message": "ok"
+}

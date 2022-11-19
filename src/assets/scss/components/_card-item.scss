@@ -1,0 +1,14 @@
+.cardUl {
+  li {
+    .ttl {
+      margin-bottom: 0px;
+    }
+    .ctn {
+      margin-bottom: 5px;
+      width: 100%;
+      text-overflow: ellipsis;
+      overflow: hidden;
+      white-space: nowrap;
+    }
+  }
+}

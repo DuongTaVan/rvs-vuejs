@@ -1,0 +1,13 @@
+{
+  "data": {
+    "video_lesson_try_id": 1,
+    "stage": "reflex",
+    "training": {
+      "reflex_try_id": 1,
+      "question_video_url": "https://www.appsloveworld.com/wp-content/uploads/2018/10/640.mp4",
+      "recognition_start_sec": 3,
+      "has_answer": 1,
+      "has_next": 1
+    }
+  }
+}

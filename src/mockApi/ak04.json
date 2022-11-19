@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "user_reservation_id": "12",
+      "user_id": "1",
+      "reservation_slot_id": "2",
+      "slot_start_time": "13:00",
+      "slot_end_time": "14:00",
+      "cancelable_deadline": "2",
+      "status": "1",
+      "kept_at": "2",
+      "confirmed_at": "2022-07-25 00:00:00",
+      "canceled_at": null
+    }
+  ],
+  "message": "ok"
+}

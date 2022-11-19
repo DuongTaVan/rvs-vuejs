@@ -1,0 +1,22 @@
+{
+  "data": {
+    "video_lesson_try_id": 1,
+    "stage": "japanese",
+    "japanese": {
+      "japanese_card_url": "https://res.cloudinary.com/codelife/video/upload/v1637805738/intro_l5ul1k.mp4"
+    },
+    "lecture": {
+      "lecture_ video_url": "https://res.cloudinary.com/codelife/video/upload/v1637805738/intro_l5ul1k.mp4"
+    },
+    "training": {
+      "sentence_video_url": "https://res.cloudinary.com/codelife/video/upload/v1637805738/intro_l5ul1k.mp4"
+    },
+    "practice": {
+      "reflex_try_id": 1,
+      "practice_video_url": "https://res.cloudinary.com/codelife/video/upload/v1637805738/intro_l5ul1k.mp4",
+      "recognition_start_sec": "2022-07-27 00:00:00",
+      "recognition_end_sec": "2022-07-27 01:00:00"
+    }
+  },
+  "message": "ok"
+}

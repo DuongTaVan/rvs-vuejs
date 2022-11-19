@@ -1,0 +1,12 @@
+{
+  "data": {
+    "video_lesson_try_id": 1,
+    "stage": "practice",
+    "practice": {
+      "reflex_try_id": 1,
+      "result": 2,
+      "correct_answer": "Yes, it correct"
+    }
+  },
+  "message": "ok"
+}

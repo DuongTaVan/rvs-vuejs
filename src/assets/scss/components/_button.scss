@@ -1,0 +1,46 @@
+.btn-submit {
+  padding: 0;
+  -moz-appearance: none;
+  appearance: none;
+  -webkit-appearance: none;
+  width: 95px;
+  height: 24px;
+  line-height: 23px;
+  color: #111;
+  cursor: pointer;
+  color: #FFF;
+  font-size: 1.1rem;
+  border-radius: 50px;
+  background: #3f6ac8;
+  border: 1px solid #3f6ac8;
+  box-shadow: 0px 3px 6px rgb(17 17 17 / 10%);
+  text-decoration: none;
+  box-sizing: border-box;
+
+  &:hover {
+    opacity: .7;
+  }
+
+  &.btn-submit-outline {
+    color: #111;
+    background-color: #FFF;
+    border-color: #888888;
+    box-shadow: none;
+  }
+}
+
+.btn-play {
+  cursor: pointer;
+  position: absolute;
+  border: 0px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: transparent;
+
+
+  img {
+    display: block;
+    width: 40px;
+  }
+}

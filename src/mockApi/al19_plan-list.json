@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "root_node": 1,
+      "plan_id": 1,
+      "type": 1,
+      "name": "dth999",
+      "price": 5000,
+      "has_point_option": 1,
+      "str_price_id": "abcd",
+      "display_order": 1
+    },
+    {
+      "root_node": 2,
+      "plan_id": 2,
+      "type": 2,
+      "name": "dth888",
+      "price": 3000,
+      "has_point_option": 2,
+      "str_price_id": "abcd888",
+      "display_order": 2
+    },
+    {
+      "root_node": 3,
+      "plan_id": 3,
+      "type": 3,
+      "name": "dth777",
+      "price": 1000,
+      "has_point_option": 3,
+      "str_price_id": "abcd777",
+      "display_order": 3
+    }
+  ],
+  "message": "ok"
+}

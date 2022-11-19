@@ -1,0 +1,13 @@
+export const GET_USER = '/users';
+export const USER_INFO = '/users/me';
+export const POST_INITIAL_SETUP = '/users/me/setup';
+export const AUTH_EMAIL_SENDING = '/pre-users';
+export const LOGIN = '/login-with-email';
+export const PASSWORD_RESET_EMAIL_SENDING = '/password-resets';
+export const RESET_PASSWORD = '/reset-password';
+export const HOME = '/home';
+export const GOAL_LIST = '/goals';
+export const CHANGE_GOAL = '/change-goal';
+export const SUBSCRIPTION = '/subscriptions';
+export const SIGNUP_WITH_EMAIL = '/users/signup-with-email';
+export const GET_SKILLS = '/skills';
